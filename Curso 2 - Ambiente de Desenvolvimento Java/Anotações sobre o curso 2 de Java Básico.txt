@@ -1,0 +1,21 @@
+			 Links Úteis sobre o Curso 2 - Ambiente de Desenvolvimento Java
+
+			* Plataformas da linguagem Java Link: https://glysns.gitbook.io/java-basico/fundamentos/plataformas
+			* Configurando o ambiente Link: https://glysns.gitbook.io/java-basico/fundamentos/configurando-o-ambiente-de-desenvolvimento
+			* Escolha sua IDE Link: https://glysns.gitbook.io/java-basico/fundamentos/escolha-sua-ide
+			* Instalação da extensão de Java para usar no VS Code(Java in Visual Studio Code) Link: https://code.visualstudio.com/docs/languages/java
+
+
+
+			Integração do VS Code com o GitHub
+
+			*Conta -> Sincronização(primeira opção) -> sigin -> autorizar o GitHub -> Voltar para o VS Code
+
+			
+			Criar projeto Java no VS Code
+			* CTRL + Shift + P
+			* Java: Create Java Project...
+			* No build tools
+			* Escolher pasta para armazenar o código
+			* Nomear o projeto
+			
