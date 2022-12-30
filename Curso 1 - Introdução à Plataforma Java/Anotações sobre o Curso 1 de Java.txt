@@ -1,0 +1,4 @@
+		   Links Úteis sobre o Curso 1 de Java - Introdução à Plataforma Java
+
+			* Java Básico  Link: https://glysns.gitbook.io/java-basico/
+			* Java e sua história Link: https://glysns.gitbook.io/java-basico/fundamentos/java-e-sua-historia
