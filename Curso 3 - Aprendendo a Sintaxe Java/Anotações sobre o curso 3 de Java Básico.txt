@@ -1,0 +1,36 @@
+		 Informações e Links Úteis sobre o Curso 3 - Aprendendo a Sintaxe Java
+
+			* Anatomia das Classes - Link: https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes
+			* Tipos e Variáveis - Link: https://glysns.gitbook.io/java-basico/sintaxe/variaveis
+			* Operadores - Link: https://glysns.gitbook.io/java-basico/sintaxe/operadores
+			* Métodos - Link: https://glysns.gitbook.io/java-basico/sintaxe/metodos
+			* Escopo - Link: https://glysns.gitbook.io/java-basico/sintaxe/escopo
+			* Palavras escopo - Link: https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas
+			* Java Doc - Link: https://glysns.gitbook.io/java-basico/sintaxe/documentacao
+
+				*OBS.: Precisei adicionar a pasta "Java" no (D:) e adicionar um nova variável de ambiente para 
+					gerar a documentação do código pelo terminal do VS Code. (javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java)
+					- Adicionando uma nova variável de ambiente:
+					   * Pesquisar por sistema;
+					   * Configurações avançadas do sistema;
+					   * Variáveis de Ambiente;
+					   * Variáveis de usuário para Danielle;
+					   * Path;
+					   * Editar;
+					   * Novo:
+					   * Procurar;
+					   * Exemplo: D:\Programas\Java\jdk1.8.0_271\bin
+					   * OK
+					   * OK
+					   * OK
+					   * Fechar configurações
+
+			* Terminal e Argumentos - Link: https://glysns.gitbook.io/java-basico/sintaxe/terminal-e-argumentos
+				*OBS:. Para entrar no disco D: pelo terminal é só digitar "D:"
+
+
+					
+				
+
+
+				
