@@ -1,0 +1,9 @@
+		   Links Úteis sobre o Curso 4 de Java - Lógica Condicional e Controle de Fluxos em Java
+
+
+			*https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html
+			*https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html
+			*https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
+			*https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
+			*https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
+			*https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flowsummary.html
