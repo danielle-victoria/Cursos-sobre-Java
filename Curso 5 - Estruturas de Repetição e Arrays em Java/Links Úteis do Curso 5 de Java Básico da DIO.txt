@@ -1,0 +1,5 @@
+	    Links Úteis sobre o Curso 5 de Java - Estruturas de Repetição e Arrays em Java
+
+			
+		* Slide: https://drive.google.com/file/d/1xNzZ3dQMATP11Dk3HWsAWdEuJfVDpnN_/view
+		* https://github.com/cami-la/loops-e-arrays
