@@ -5,3 +5,4 @@
 - Curso 3 - Aprendendo a Sintaxe Java
 - Curso 4 - Lógica Condicional e Controle de Fluxos em Java
 - Curso 5 - Estruturas de Repetição e Arrays em Java
+- Curso 6 - Entendendo Métodos Java
