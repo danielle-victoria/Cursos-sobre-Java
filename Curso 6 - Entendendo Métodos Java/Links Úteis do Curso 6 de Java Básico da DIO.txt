@@ -1,0 +1,12 @@
+		    Links Úteis sobre o Curso 5 de Java - Entendendo Métodos Java
+			
+			
+			Slide:
+			* https://docs.google.com/presentation/d/1InCKAqx_Vocw9BxN95JTtcDpPnredEOa/edit#slide=id.g14ad4599b4e_14_0
+			
+			
+			Outros Links:
+			* https:www.casadocodigo.com.br/products/livro-oo-conceitos
+			* https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+			* https://docs.oracle.com/javase/tutorial/java/javaOO/returnvalue.html
+			* https://docs.oracle.com/javase/tutorial/java/javaOO/arguments.html
